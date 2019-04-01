@@ -1,0 +1,43 @@
+{
+  "name": "frontend-assignment-r42",
+  "version": "1.0.0",
+  "description": "Frontend Assigment R42",
+  "main": "src/index.js",
+  "scripts": {
+    "compile": "webpack",
+    "build": "webpack -p",
+    "start": "node server.js"
+  },
+  "author": "R42",
+  "license": "MIT",
+  "dependencies": {
+    "@types/lodash": "^4.14.123",
+    "express": "^4.16.3",
+    "lodash": "^4.17.11",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-redux": "^6.0.1",
+    "redux": "^4.0.1",
+    "redux-observable": "^1.1.0",
+    "reselect": "^4.0.0",
+    "rxjs": "^6.4.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.0",
+    "@babel/plugin-proposal-class-properties": "^7.0.0",
+    "@babel/plugin-proposal-export-default-from": "^7.2.0",
+    "@babel/plugin-transform-typescript": "^7.4.0",
+    "@babel/preset-env": "^7.3.1",
+    "@babel/preset-react": "^7.0.0",
+    "@babel/preset-typescript": "^7.3.3",
+    "@types/react": "^16.8.10",
+    "@types/react-redux": "^7.0.6",
+    "@types/redux": "^3.6.0",
+    "babel-loader": "^8.0.5",
+    "redux-devtools-extension": "^2.13.8",
+    "typescript": "^3.4.1",
+    "webpack": "^4.16.3",
+    "webpack-cli": "^3.3.0",
+    "webpack-dev-middleware": "^3.1.3"
+  }
+}

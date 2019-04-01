@@ -1,0 +1,1041 @@
+{
+  "_links": {
+    "self": {
+      "href": "https:\/\/beta-api.route42.nl\/v2\/vehicle"
+    }
+  },
+  "_embedded": {
+    "vehicle": [
+      {
+        "temperatureSensorA": 0,
+        "temperatureSensorB": 999,
+        "temperatureSensorC": 999,
+        "doorState": 1,
+        "coolerEngineState": null,
+        "ignitionState": 1,
+        "trailerId": "4962019060",
+        "licensePlate": "00",
+        "mileage": 3,
+        "mileageTrip": 3,
+        "mileageMaintenance": 40000,
+        "ndureId": "12753",
+        "batteryStatus": "UNKNOWN",
+        "batteryPercentage": 100,
+        "charging": null,
+        "name": "4962019060",
+        "active": 0,
+        "approved": 0,
+        "customer": 25,
+        "icon": {
+          "type": "trailerId",
+          "color": "#4daf4a"
+        },
+        "type": "ColdChainTrailerEntity",
+        "source": 9,
+        "_class": "Route42\\V2\\Rest\\ColdChainTrailer\\ColdChainTrailerEntity",
+        "id": 6069,
+        "userId": null,
+        "created": null,
+        "modified": null,
+        "_position": 99,
+        "user": null,
+        "deleted": false,
+        "__class": "Route42\\V2\\Rest\\ColdChainTrailer\\ColdChainTrailerEntity",
+        "isCharging": true,
+        "_links": {
+          "self": {
+            "href": "https:\/\/beta-api.route42.nl\/v2\/vehicle\/6069"
+          }
+        }
+      },
+      {
+        "temperatureSensorA": 0,
+        "temperatureSensorB": 999,
+        "temperatureSensorC": 999,
+        "doorState": 0,
+        "coolerEngineState": 0,
+        "ignitionState": 1,
+        "trailerId": "4962018980",
+        "licensePlate": "ghj",
+        "mileage": 149,
+        "mileageTrip": 149,
+        "mileageMaintenance": 40000,
+        "ndureId": "13043",
+        "batteryStatus": "UNKNOWN",
+        "batteryPercentage": 0,
+        "charging": null,
+        "name": "4962018980",
+        "active": 0,
+        "approved": 0,
+        "customer": 25,
+        "icon": {
+          "type": "trailerId",
+          "color": "#4daf4a"
+        },
+        "type": "ColdChainTrailerEntity",
+        "source": 9,
+        "_class": "Route42\\V2\\Rest\\ColdChainTrailer\\ColdChainTrailerEntity",
+        "id": 6166,
+        "userId": null,
+        "created": null,
+        "modified": null,
+        "_position": 100,
+        "user": null,
+        "deleted": false,
+        "__class": "Route42\\V2\\Rest\\ColdChainTrailer\\ColdChainTrailerEntity",
+        "isCharging": false,
+        "_links": {
+          "self": {
+            "href": "https:\/\/beta-api.route42.nl\/v2\/vehicle\/6166"
+          }
+        }
+      },
+      {
+        "type": "TrailerEntity",
+        "secondaryId": "10929 ON-38-LX",
+        "licensePlate": "ON-38-LX",
+        "name": "10929 ON-38-LX",
+        "active": 1,
+        "approved": 0,
+        "customer": 25,
+        "icon": null,
+        "source": 4,
+        "_class": "Route42\\V2\\Rest\\Vehicle\\ExternalVehicleEntity",
+        "id": 6537,
+        "userId": null,
+        "created": null,
+        "modified": null,
+        "_position": 101,
+        "user": null,
+        "deleted": false,
+        "__class": "Route42\\V2\\Rest\\Vehicle\\ExternalVehicleEntity",
+        "_links": {
+          "self": {
+            "href": "https:\/\/beta-api.route42.nl\/v2\/vehicle\/6537"
+          }
+        }
+      },
+      {
+        "type": "TrailerEntity",
+        "secondaryId": "10929 ON-38-LX",
+        "licensePlate": "ON-38-LX",
+        "name": "10929 ON-38-LX",
+        "active": 1,
+        "approved": 0,
+        "customer": 25,
+        "icon": null,
+        "source": 4,
+        "_class": "Route42\\V2\\Rest\\Vehicle\\ExternalVehicleEntity",
+        "id": 6538,
+        "userId": null,
+        "created": null,
+        "modified": null,
+        "_position": 102,
+        "user": null,
+        "deleted": false,
+        "__class": "Route42\\V2\\Rest\\Vehicle\\ExternalVehicleEntity",
+        "_links": {
+          "self": {
+            "href": "https:\/\/beta-api.route42.nl\/v2\/vehicle\/6538"
+          }
+        }
+      },
+      {
+        "type": "TrailerEntity",
+        "secondaryId": "10929 ON-38-LX",
+        "licensePlate": "ON-38-LX",
+        "name": "10929 ON-38-LX",
+        "active": 1,
+        "approved": 0,
+        "customer": 25,
+        "icon": null,
+        "source": 4,
+        "_class": "Route42\\V2\\Rest\\Vehicle\\ExternalVehicleEntity",
+        "id": 6544,
+        "userId": null,
+        "created": null,
+        "modified": null,
+        "_position": 103,
+        "user": null,
+        "deleted": false,
+        "__class": "Route42\\V2\\Rest\\Vehicle\\ExternalVehicleEntity",
+        "_links": {
+          "self": {
+            "href": "https:\/\/beta-api.route42.nl\/v2\/vehicle\/6544"
+          }
+        }
+      },
+      {
+        "type": "TrailerEntity",
+        "secondaryId": "10929 ON-38-LX",
+        "licensePlate": "ON-38-LX",
+        "name": "10929 ON-38-LX",
+        "active": 1,
+        "approved": 0,
+        "customer": 25,
+        "icon": {
+          "type": "truckId",
+          "color": "#e41a1c"
+        },
+        "source": 4,
+        "_class": "Route42\\V2\\Rest\\Vehicle\\ExternalVehicleEntity",
+        "id": 6546,
+        "userId": null,
+        "created": null,
+        "modified": null,
+        "_position": 104,
+        "user": null,
+        "deleted": false,
+        "__class": "Route42\\V2\\Rest\\Vehicle\\ExternalVehicleEntity",
+        "_links": {
+          "self": {
+            "href": "https:\/\/beta-api.route42.nl\/v2\/vehicle\/6546"
+          }
+        }
+      },
+      {
+        "trailerId": "1233027800",
+        "licensePlate": "RS732J",
+        "mileage": 15046,
+        "mileageTrip": 13581,
+        "mileageMaintenance": 40000,
+        "ndureId": "103192",
+        "batteryStatus": "UNKNOWN",
+        "batteryPercentage": 1,
+        "charging": null,
+        "name": "Jasper",
+        "active": 1,
+        "approved": 0,
+        "customer": 25,
+        "icon": {
+          "type": "craneTruck",
+          "color": "#e41a1c"
+        },
+        "type": "TrailerEntity",
+        "source": 9,
+        "_class": "Route42\\V2\\Rest\\Trailer\\TrailerEntity",
+        "id": 7262,
+        "userId": null,
+        "created": null,
+        "modified": null,
+        "_position": 105,
+        "user": null,
+        "deleted": false,
+        "__class": "Route42\\V2\\Rest\\Trailer\\TrailerEntity",
+        "isCharging": null,
+        "_links": {
+          "self": {
+            "href": "https:\/\/beta-api.route42.nl\/v2\/vehicle\/7262"
+          }
+        }
+      },
+      {
+        "trailerId": "1233018212",
+        "licensePlate": "8xxx77",
+        "mileage": 178973,
+        "mileageTrip": 22998,
+        "mileageMaintenance": 40000,
+        "ndureId": "15227",
+        "batteryStatus": "OK",
+        "batteryPercentage": 100,
+        "charging": null,
+        "name": "Skoda MaxZ",
+        "active": 1,
+        "approved": 0,
+        "customer": 25,
+        "icon": {
+          "type": "trailerId",
+          "color": "#4daf4a"
+        },
+        "type": "TrailerEntity",
+        "source": 9,
+        "_class": "Route42\\V2\\Rest\\Trailer\\TrailerEntity",
+        "id": 7797,
+        "userId": null,
+        "created": null,
+        "modified": null,
+        "_position": 106,
+        "user": null,
+        "deleted": false,
+        "__class": "Route42\\V2\\Rest\\Trailer\\TrailerEntity",
+        "isCharging": null,
+        "_links": {
+          "self": {
+            "href": "https:\/\/beta-api.route42.nl\/v2\/vehicle\/7797"
+          }
+        }
+      },
+      {
+        "trailerId": "1233027627_oud",
+        "licensePlate": "gh",
+        "mileage": null,
+        "mileageTrip": null,
+        "mileageMaintenance": 40000,
+        "ndureId": null,
+        "batteryStatus": "UNKNOWN",
+        "batteryPercentage": null,
+        "charging": null,
+        "name": "1233027627",
+        "active": 0,
+        "approved": 0,
+        "customer": 25,
+        "icon": {
+          "type": "trailerId",
+          "color": "#4daf4a"
+        },
+        "type": "TrailerEntity",
+        "source": 9,
+        "_class": "Route42\\V2\\Rest\\Trailer\\TrailerEntity",
+        "id": 7905,
+        "userId": null,
+        "created": null,
+        "modified": null,
+        "_position": 107,
+        "user": null,
+        "deleted": false,
+        "__class": "Route42\\V2\\Rest\\Trailer\\TrailerEntity",
+        "isCharging": null,
+        "_links": {
+          "self": {
+            "href": "https:\/\/beta-api.route42.nl\/v2\/vehicle\/7905"
+          }
+        }
+      },
+      {
+        "forkliftId": "1233027627_1552041906",
+        "operatingTime": 60480,
+        "operatingTimeMaintenance": 36000,
+        "operatingTimeLastMaintenance": 1,
+        "timestampLastMaintenance": 1529934999,
+        "tripStart": 1530276739,
+        "tripEnd": 1530277262,
+        "nextMaintenance": -24479,
+        "ndureId": "19157",
+        "batteryStatus": "OK",
+        "batteryPercentage": 100,
+        "charging": null,
+        "name": "forklift test",
+        "active": 0,
+        "approved": 0,
+        "customer": 25,
+        "icon": {
+          "type": "forkliftId",
+          "color": "#a65628"
+        },
+        "type": "ForkliftEntity",
+        "source": 9,
+        "_class": "Route42\\V2\\Rest\\Forklift\\ForkliftEntity",
+        "id": 7906,
+        "userId": null,
+        "created": null,
+        "modified": null,
+        "_position": 108,
+        "user": null,
+        "deleted": false,
+        "__class": "Route42\\V2\\Rest\\Forklift\\ForkliftEntity",
+        "isCharging": true,
+        "_links": {
+          "self": {
+            "href": "https:\/\/beta-api.route42.nl\/v2\/vehicle\/7906"
+          }
+        }
+      },
+      {
+        "licensePlate": null,
+        "name": "Nable 861075025234378",
+        "active": 0,
+        "approved": 0,
+        "customer": 25,
+        "icon": {
+          "type": "truckId",
+          "color": "rgb(255, 120, 71)"
+        },
+        "type": "TruckEntity",
+        "source": 9,
+        "_class": "Route42\\V2\\Rest\\Vehicle\\TruckEntity",
+        "id": 7907,
+        "userId": null,
+        "created": null,
+        "modified": null,
+        "_position": 109,
+        "user": null,
+        "deleted": false,
+        "__class": "Route42\\V2\\Rest\\Vehicle\\TruckEntity",
+        "_links": {
+          "self": {
+            "href": "https:\/\/beta-api.route42.nl\/v2\/vehicle\/7907"
+          }
+        }
+      },
+      {
+        "forkliftId": "1233021903",
+        "operatingTime": 60480,
+        "operatingTimeMaintenance": 36000,
+        "operatingTimeLastMaintenance": 1,
+        "timestampLastMaintenance": 1529918350,
+        "tripStart": 1531741611,
+        "tripEnd": 1531741645,
+        "nextMaintenance": -24479,
+        "ndureId": "103799",
+        "batteryStatus": "OK",
+        "batteryPercentage": 100,
+        "charging": null,
+        "name": "1233021903",
+        "active": 0,
+        "approved": 0,
+        "customer": 25,
+        "icon": {
+          "type": "forkliftId",
+          "color": "#a65628"
+        },
+        "type": "ForkliftEntity",
+        "source": 9,
+        "_class": "Route42\\V2\\Rest\\Forklift\\ForkliftEntity",
+        "id": 7911,
+        "userId": null,
+        "created": null,
+        "modified": null,
+        "_position": 110,
+        "user": null,
+        "deleted": false,
+        "__class": "Route42\\V2\\Rest\\Forklift\\ForkliftEntity",
+        "isCharging": true,
+        "_links": {
+          "self": {
+            "href": "https:\/\/beta-api.route42.nl\/v2\/vehicle\/7911"
+          }
+        }
+      },
+      {
+        "licensePlate": null,
+        "name": "ROUTE42QUALITYOKX",
+        "active": 0,
+        "approved": 0,
+        "customer": 25,
+        "icon": {
+          "type": "truckId",
+          "color": "#ff7f00"
+        },
+        "type": "TruckEntity",
+        "source": 9,
+        "_class": "Route42\\V2\\Rest\\Vehicle\\TruckEntity",
+        "id": 7945,
+        "userId": null,
+        "created": null,
+        "modified": null,
+        "_position": 111,
+        "user": null,
+        "deleted": false,
+        "__class": "Route42\\V2\\Rest\\Vehicle\\TruckEntity",
+        "_links": {
+          "self": {
+            "href": "https:\/\/beta-api.route42.nl\/v2\/vehicle\/7945"
+          }
+        }
+      },
+      {
+        "trailerId": "1233030988",
+        "licensePlate": "R42-BE",
+        "mileage": 23470,
+        "mileageTrip": 23470,
+        "mileageMaintenance": 40000,
+        "ndureId": "103866",
+        "batteryStatus": "OK",
+        "batteryPercentage": 100,
+        "charging": null,
+        "name": "Steven",
+        "active": 1,
+        "approved": 0,
+        "customer": 25,
+        "icon": {
+          "type": "trailerId",
+          "color": "#4daf4a"
+        },
+        "type": "TrailerEntity",
+        "source": 9,
+        "_class": "Route42\\V2\\Rest\\Trailer\\TrailerEntity",
+        "id": 7957,
+        "userId": null,
+        "created": null,
+        "modified": null,
+        "_position": 112,
+        "user": null,
+        "deleted": false,
+        "__class": "Route42\\V2\\Rest\\Trailer\\TrailerEntity",
+        "isCharging": null,
+        "_links": {
+          "self": {
+            "href": "https:\/\/beta-api.route42.nl\/v2\/vehicle\/7957"
+          }
+        }
+      },
+      {
+        "type": "ExternalVehicleEntity",
+        "secondaryId": "route42_unit_test1",
+        "licensePlate": null,
+        "name": "External vehicle",
+        "active": 1,
+        "approved": 0,
+        "customer": 25,
+        "icon": null,
+        "source": 6,
+        "_class": "Route42\\V2\\Rest\\Vehicle\\ExternalVehicleEntity",
+        "id": 7985,
+        "userId": null,
+        "created": null,
+        "modified": null,
+        "_position": 113,
+        "user": null,
+        "deleted": false,
+        "__class": "Route42\\V2\\Rest\\Vehicle\\ExternalVehicleEntity",
+        "_links": {
+          "self": {
+            "href": "https:\/\/beta-api.route42.nl\/v2\/vehicle\/7985"
+          }
+        }
+      },
+      {
+        "trailerId": "1233030880",
+        "licensePlate": "hhh",
+        "mileage": 2925,
+        "mileageTrip": 2925,
+        "mileageMaintenance": 40000,
+        "ndureId": "103791",
+        "batteryStatus": "UNKNOWN",
+        "batteryPercentage": 2,
+        "charging": null,
+        "name": "1233030880",
+        "active": 1,
+        "approved": 0,
+        "customer": 25,
+        "icon": null,
+        "type": "TrailerEntity",
+        "source": 9,
+        "_class": "Route42\\V2\\Rest\\Trailer\\TrailerEntity",
+        "id": 9045,
+        "userId": null,
+        "created": null,
+        "modified": null,
+        "_position": 114,
+        "user": null,
+        "deleted": false,
+        "__class": "Route42\\V2\\Rest\\Trailer\\TrailerEntity",
+        "isCharging": null,
+        "_links": {
+          "self": {
+            "href": "https:\/\/beta-api.route42.nl\/v2\/vehicle\/9045"
+          }
+        }
+      },
+      {
+        "trailerId": "3133017430_OLD",
+        "licensePlate": null,
+        "mileage": 157,
+        "mileageTrip": 157,
+        "mileageMaintenance": 40000,
+        "ndureId": "105299",
+        "batteryStatus": "UNKNOWN",
+        "batteryPercentage": null,
+        "charging": null,
+        "name": "3133017430",
+        "active": 0,
+        "approved": 0,
+        "customer": 25,
+        "icon": null,
+        "type": "TrailerEntity",
+        "source": 9,
+        "_class": "Route42\\V2\\Rest\\Trailer\\TrailerEntity",
+        "id": 9080,
+        "userId": null,
+        "created": null,
+        "modified": null,
+        "_position": 115,
+        "user": null,
+        "deleted": false,
+        "__class": "Route42\\V2\\Rest\\Trailer\\TrailerEntity",
+        "isCharging": null,
+        "_links": {
+          "self": {
+            "href": "https:\/\/beta-api.route42.nl\/v2\/vehicle\/9080"
+          }
+        }
+      },
+      {
+        "trailerId": "1233037525_OLD",
+        "licensePlate": null,
+        "mileage": 1256,
+        "mileageTrip": 1256,
+        "mileageMaintenance": 40000,
+        "ndureId": "105401",
+        "batteryStatus": "UNKNOWN",
+        "batteryPercentage": 100,
+        "charging": null,
+        "name": "1233037525",
+        "active": 0,
+        "approved": 0,
+        "customer": 25,
+        "icon": null,
+        "type": "TrailerEntity",
+        "source": 9,
+        "_class": "Route42\\V2\\Rest\\Trailer\\TrailerEntity",
+        "id": 9268,
+        "userId": null,
+        "created": null,
+        "modified": null,
+        "_position": 116,
+        "user": null,
+        "deleted": false,
+        "__class": "Route42\\V2\\Rest\\Trailer\\TrailerEntity",
+        "isCharging": null,
+        "_links": {
+          "self": {
+            "href": "https:\/\/beta-api.route42.nl\/v2\/vehicle\/9268"
+          }
+        }
+      },
+      {
+        "trailerId": "4632022288old",
+        "licensePlate": null,
+        "mileage": 423,
+        "mileageTrip": 423,
+        "mileageMaintenance": 40000,
+        "ndureId": "105959",
+        "batteryStatus": "UNKNOWN",
+        "batteryPercentage": 100,
+        "charging": null,
+        "name": "4632022288",
+        "active": 0,
+        "approved": 0,
+        "customer": 25,
+        "icon": null,
+        "type": "TrailerEntity",
+        "source": 9,
+        "_class": "Route42\\V2\\Rest\\Trailer\\TrailerEntity",
+        "id": 10013,
+        "userId": null,
+        "created": null,
+        "modified": null,
+        "_position": 117,
+        "user": null,
+        "deleted": false,
+        "__class": "Route42\\V2\\Rest\\Trailer\\TrailerEntity",
+        "isCharging": true,
+        "_links": {
+          "self": {
+            "href": "https:\/\/beta-api.route42.nl\/v2\/vehicle\/10013"
+          }
+        }
+      },
+      {
+        "trailerId": "4532450031old",
+        "licensePlate": null,
+        "mileage": 277,
+        "mileageTrip": 277,
+        "mileageMaintenance": 40000,
+        "ndureId": "106588",
+        "batteryStatus": "UNKNOWN",
+        "batteryPercentage": null,
+        "charging": null,
+        "name": "4532450031",
+        "active": 0,
+        "approved": 0,
+        "customer": 25,
+        "icon": null,
+        "type": "TrailerEntity",
+        "source": 9,
+        "_class": "Route42\\V2\\Rest\\Trailer\\TrailerEntity",
+        "id": 10739,
+        "userId": null,
+        "created": null,
+        "modified": null,
+        "_position": 118,
+        "user": null,
+        "deleted": false,
+        "__class": "Route42\\V2\\Rest\\Trailer\\TrailerEntity",
+        "isCharging": null,
+        "_links": {
+          "self": {
+            "href": "https:\/\/beta-api.route42.nl\/v2\/vehicle\/10739"
+          }
+        }
+      },
+      {
+        "trailerId": "1233017767old",
+        "licensePlate": null,
+        "mileage": 482,
+        "mileageTrip": 482,
+        "mileageMaintenance": 40000,
+        "ndureId": "103933",
+        "batteryStatus": "UNKNOWN",
+        "batteryPercentage": 0,
+        "charging": null,
+        "name": "1233017767",
+        "active": 0,
+        "approved": 0,
+        "customer": 25,
+        "icon": null,
+        "type": "TrailerEntity",
+        "source": 9,
+        "_class": "Route42\\V2\\Rest\\Trailer\\TrailerEntity",
+        "id": 11257,
+        "userId": null,
+        "created": null,
+        "modified": null,
+        "_position": 119,
+        "user": null,
+        "deleted": false,
+        "__class": "Route42\\V2\\Rest\\Trailer\\TrailerEntity",
+        "isCharging": null,
+        "_links": {
+          "self": {
+            "href": "https:\/\/beta-api.route42.nl\/v2\/vehicle\/11257"
+          }
+        }
+      },
+      {
+        "trailerId": "1233027616_OLD",
+        "licensePlate": null,
+        "mileage": 697,
+        "mileageTrip": 697,
+        "mileageMaintenance": 40000,
+        "ndureId": "19150",
+        "batteryStatus": "OK",
+        "batteryPercentage": 100,
+        "charging": null,
+        "name": "1233027616",
+        "active": 1,
+        "approved": 0,
+        "customer": 25,
+        "icon": null,
+        "type": "TrailerEntity",
+        "source": 9,
+        "_class": "Route42\\V2\\Rest\\Trailer\\TrailerEntity",
+        "id": 11523,
+        "userId": null,
+        "created": null,
+        "modified": null,
+        "_position": 120,
+        "user": null,
+        "deleted": false,
+        "__class": "Route42\\V2\\Rest\\Trailer\\TrailerEntity",
+        "isCharging": null,
+        "_links": {
+          "self": {
+            "href": "https:\/\/beta-api.route42.nl\/v2\/vehicle\/11523"
+          }
+        }
+      },
+      {
+        "licensePlate": null,
+        "name": "35801409116131",
+        "active": 1,
+        "approved": 0,
+        "customer": 25,
+        "icon": null,
+        "type": "DriveULUVehicleEntity",
+        "source": 9,
+        "_class": "Route42\\V2\\Rest\\Vehicle\\DriveULUVehicleEntity",
+        "id": 12083,
+        "userId": null,
+        "created": null,
+        "modified": null,
+        "_position": 121,
+        "user": null,
+        "deleted": false,
+        "__class": "Route42\\V2\\Rest\\Vehicle\\DriveULUVehicleEntity",
+        "_links": {
+          "self": {
+            "href": "https:\/\/beta-api.route42.nl\/v2\/vehicle\/12083"
+          }
+        }
+      },
+      {
+        "type": "ExternalVehicleEntity",
+        "secondaryId": "KSMB61801689",
+        "licensePlate": null,
+        "name": "KSMB61801689 (SmartWitness)",
+        "active": 1,
+        "approved": 0,
+        "customer": 25,
+        "icon": null,
+        "source": 13,
+        "_class": "Route42\\V2\\Rest\\Vehicle\\ExternalVehicleEntity",
+        "id": 12751,
+        "userId": null,
+        "created": null,
+        "modified": null,
+        "_position": 122,
+        "user": null,
+        "deleted": false,
+        "__class": "Route42\\V2\\Rest\\Vehicle\\ExternalVehicleEntity",
+        "_links": {
+          "self": {
+            "href": "https:\/\/beta-api.route42.nl\/v2\/vehicle\/12751"
+          }
+        }
+      },
+      {
+        "type": "ExternalVehicleEntity",
+        "secondaryId": "F2MA51800348",
+        "licensePlate": null,
+        "name": "F2MA51800348 (SmartWitness)",
+        "active": 1,
+        "approved": 0,
+        "customer": 25,
+        "icon": null,
+        "source": 13,
+        "_class": "Route42\\V2\\Rest\\Vehicle\\ExternalVehicleEntity",
+        "id": 12752,
+        "userId": null,
+        "created": null,
+        "modified": null,
+        "_position": 123,
+        "user": null,
+        "deleted": false,
+        "__class": "Route42\\V2\\Rest\\Vehicle\\ExternalVehicleEntity",
+        "_links": {
+          "self": {
+            "href": "https:\/\/beta-api.route42.nl\/v2\/vehicle\/12752"
+          }
+        }
+      },
+      {
+        "forkliftId": "1233030662_OLD",
+        "operatingTime": 1,
+        "operatingTimeMaintenance": 180000,
+        "operatingTimeLastMaintenance": 1,
+        "timestampLastMaintenance": 1552997646,
+        "tripStart": null,
+        "tripEnd": null,
+        "nextMaintenance": 180000,
+        "ndureId": "103599",
+        "batteryStatus": "UNKNOWN",
+        "batteryPercentage": 32,
+        "charging": null,
+        "name": "1233030662",
+        "active": 1,
+        "approved": 0,
+        "customer": 25,
+        "icon": {
+          "type": "externalVehicleId",
+          "color": "#4daf4a"
+        },
+        "type": "ForkliftEntity",
+        "source": 9,
+        "_class": "Route42\\V2\\Rest\\Forklift\\ForkliftEntity",
+        "id": 13024,
+        "userId": null,
+        "created": null,
+        "modified": null,
+        "_position": 124,
+        "user": null,
+        "deleted": false,
+        "__class": "Route42\\V2\\Rest\\Forklift\\ForkliftEntity",
+        "isCharging": true,
+        "_links": {
+          "self": {
+            "href": "https:\/\/beta-api.route42.nl\/v2\/vehicle\/13024"
+          }
+        }
+      },
+      {
+        "forkliftId": "1233036582_OLD",
+        "operatingTime": 180000,
+        "operatingTimeMaintenance": 180000,
+        "operatingTimeLastMaintenance": 180000,
+        "timestampLastMaintenance": 1548749092,
+        "tripStart": null,
+        "tripEnd": null,
+        "nextMaintenance": 180000,
+        "ndureId": "108976",
+        "batteryStatus": "UNKNOWN",
+        "batteryPercentage": 100,
+        "charging": null,
+        "name": "1233036582",
+        "active": 1,
+        "approved": 0,
+        "customer": 25,
+        "icon": null,
+        "type": "ForkliftEntity",
+        "source": 9,
+        "_class": "Route42\\V2\\Rest\\Forklift\\ForkliftEntity",
+        "id": 13033,
+        "userId": null,
+        "created": null,
+        "modified": null,
+        "_position": 125,
+        "user": null,
+        "deleted": false,
+        "__class": "Route42\\V2\\Rest\\Forklift\\ForkliftEntity",
+        "isCharging": true,
+        "_links": {
+          "self": {
+            "href": "https:\/\/beta-api.route42.nl\/v2\/vehicle\/13033"
+          }
+        }
+      },
+      {
+        "type": "ExternalVehicleEntity",
+        "secondaryId": "F2MA51800327",
+        "licensePlate": null,
+        "name": "F2MA51800327 (SmartWitness)",
+        "active": 1,
+        "approved": 0,
+        "customer": 25,
+        "icon": {
+          "type": "truckId",
+          "color": "#ff7f00"
+        },
+        "source": 13,
+        "_class": "Route42\\V2\\Rest\\Vehicle\\ExternalVehicleEntity",
+        "id": 13253,
+        "userId": null,
+        "created": null,
+        "modified": null,
+        "_position": 126,
+        "user": null,
+        "deleted": false,
+        "__class": "Route42\\V2\\Rest\\Vehicle\\ExternalVehicleEntity",
+        "_links": {
+          "self": {
+            "href": "https:\/\/beta-api.route42.nl\/v2\/vehicle\/13253"
+          }
+        }
+      },
+      {
+        "type": "ExternalVehicleEntity",
+        "secondaryId": "KSMB61801089",
+        "licensePlate": null,
+        "name": "KSMB61801089",
+        "active": 1,
+        "approved": 0,
+        "customer": 25,
+        "icon": null,
+        "source": 0,
+        "_class": "Route42\\V2\\Rest\\Vehicle\\ExternalVehicleEntity",
+        "id": 16125,
+        "userId": null,
+        "created": null,
+        "modified": null,
+        "_position": 127,
+        "user": null,
+        "deleted": false,
+        "__class": "Route42\\V2\\Rest\\Vehicle\\ExternalVehicleEntity",
+        "_links": {
+          "self": {
+            "href": "https:\/\/beta-api.route42.nl\/v2\/vehicle\/16125"
+          }
+        }
+      },
+      {
+        "trailerId": "4532451684",
+        "licensePlate": null,
+        "mileage": null,
+        "mileageTrip": null,
+        "mileageMaintenance": 40000,
+        "ndureId": "112693",
+        "batteryStatus": "UNKNOWN",
+        "batteryPercentage": 0,
+        "charging": null,
+        "name": "4532451684",
+        "active": 1,
+        "approved": 0,
+        "customer": 25,
+        "icon": {
+          "type": "externalVehicleId",
+          "color": "rgb(55, 126, 184)"
+        },
+        "type": "TrailerEntity",
+        "source": 9,
+        "_class": "Route42\\V2\\Rest\\Trailer\\TrailerEntity",
+        "id": 16527,
+        "userId": null,
+        "created": null,
+        "modified": null,
+        "_position": 128,
+        "user": null,
+        "deleted": false,
+        "__class": "Route42\\V2\\Rest\\Trailer\\TrailerEntity",
+        "isCharging": true,
+        "_links": {
+          "self": {
+            "href": "https:\/\/beta-api.route42.nl\/v2\/vehicle\/16527"
+          }
+        }
+      },
+      {
+        "trailerId": "4532477771",
+        "licensePlate": null,
+        "mileage": 859,
+        "mileageTrip": 859,
+        "mileageMaintenance": 40000,
+        "ndureId": "113256",
+        "batteryStatus": "EMPTY",
+        "batteryPercentage": 0,
+        "charging": null,
+        "name": "4532477771",
+        "active": 1,
+        "approved": 0,
+        "customer": 25,
+        "icon": {
+          "type": "forkliftId",
+          "color": "#f781bf"
+        },
+        "type": "TrailerEntity",
+        "source": 9,
+        "_class": "Route42\\V2\\Rest\\Trailer\\TrailerEntity",
+        "id": 16945,
+        "userId": null,
+        "created": null,
+        "modified": null,
+        "_position": 129,
+        "user": null,
+        "deleted": false,
+        "__class": "Route42\\V2\\Rest\\Trailer\\TrailerEntity",
+        "isCharging": true,
+        "_links": {
+          "self": {
+            "href": "https:\/\/beta-api.route42.nl\/v2\/vehicle\/16945"
+          }
+        }
+      },
+      {
+        "trailerId": "1233028957_1553860633",
+        "licensePlate": null,
+        "mileage": 7,
+        "mileageTrip": 7,
+        "mileageMaintenance": 40000,
+        "ndureId": "16845",
+        "batteryStatus": "OK",
+        "batteryPercentage": 76,
+        "charging": null,
+        "name": "Danielle N-dure",
+        "active": 1,
+        "approved": 1,
+        "customer": 25,
+        "icon": {
+          "type": "vesselId",
+          "color": "#984ea3"
+        },
+        "type": "TrailerEntity",
+        "source": 9,
+        "_class": "Route42\\V2\\Rest\\Trailer\\TrailerEntity",
+        "id": 17042,
+        "userId": null,
+        "created": null,
+        "modified": null,
+        "_position": 130,
+        "user": null,
+        "deleted": false,
+        "__class": "Route42\\V2\\Rest\\Trailer\\TrailerEntity",
+        "isCharging": null,
+        "_links": {
+          "self": {
+            "href": "https:\/\/beta-api.route42.nl\/v2\/vehicle\/17042"
+          }
+        }
+      }
+    ]
+  },
+  "total_items": 32
+}
