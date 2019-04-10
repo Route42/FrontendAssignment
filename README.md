@@ -11,7 +11,7 @@ The important part of this assignment is not the JSX. Fancy JSX might get you bo
 We'd like to assess what you can achieve in `60 minutes`, specifically: 
 - RxJS
 - Redux
-- Selectors (reselect)
+- Selectors ('reselect' is the name of the library)
 - Redux-observable
 - Typescript
 
