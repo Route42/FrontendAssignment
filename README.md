@@ -16,12 +16,12 @@ We'd like to assess what you can achieve in `60 minutes`, specifically:
 - Typescript
 
 In order to start please make a fork of this repository.
-Once you are done, please send us the link to the fork.
+Once you are done, please send us the link to the fork.   
 _(if this is not possible please create an _archive_ and send it to tech@route42.nl)_
 
 
 ## Usefull stuff
 VSCode is recommended for it's Typescript integration although not mandatory by any means.
 IF you have any questions don't hesitate to ask; we haven't bitten anyone yet (as the Dutch saying goes)
-Don't forget to 'yarn' or 'npm i'
+Don't forget to `yarn` or `npm i`   
 Using `yarn start` or `npm run start` the server will spawn on `localhost:3000`.
