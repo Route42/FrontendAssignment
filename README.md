@@ -15,7 +15,9 @@ We'd like to assess what you can achieve in `60 minutes`, specifically:
 - Redux-observable
 - Typescript
 
-In order to start please make a fork of this repository.   
+In order to start please make a fork of this repository.
+
+
 Once you are done, please send us the link to the fork.   
 _(if this is not possible please create an _archive_ and send it to tech@route42.nl using WeTransfer)_
 
