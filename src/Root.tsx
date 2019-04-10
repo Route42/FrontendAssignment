@@ -11,7 +11,7 @@ class Root extends Component<any, any> {
     return (
       <Provider store={store}>
         <React.Fragment>
-          <div>Good Luck! Don't forget the read the readme :)</div>
+          <div>Good Luck! Don't forget to read the readme :)</div>
           <VehicleList />
         </React.Fragment>
       </Provider>
