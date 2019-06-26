@@ -14,7 +14,8 @@ We'd like to assess what you can achieve in `2 to 4 hours`, specifically:
 - Selectors ('reselect' is the name of the library)
 - Redux-observable
 - Typescript
-- Reliable usage of API calls
+- Reliable usage of API call
+- Tests
 
 In order to start please make a fork of this repository.
 
