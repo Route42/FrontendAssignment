@@ -3,9 +3,14 @@ This repo is a 'barebones' project set-up for you to show off your epic programm
 Provided is a React component in the form of _VehiclesList_ and an accompanying redux-store; with Epic middleware applied.
 
 ## The assignment
-The file _Api.ts_ has data loaded in from a local file using require. The JSON it loads contains information of about 30 fake vehicles.
+It's your job to fetch this data using _redux-observable_ in combination with _RxJS_ (simulating a webservice); displaying the vehicles' names and ids in a 'list' afterwards. 
 
-It's your job to fetch this data using _redux-observable_ in combination with _RxJS_ (simulating a webservice); displaying the vehicles' names and ids in a 'list' afterwards.
+The data can be obtained from 2 fake REST JSON endpoints:
+- https://europe-west2-r42-integrations.cloudfunctions.net/vehicles
+- https://us-central1-r42-integrations.cloudfunctions.net/locations
+
+To access these endpoints you need to provide the two headers with keys: username, password. The username is `test-username` and the password is `test-password`.
+
 The important part of this assignment is not the JSX. Fancy JSX might get you bonus points but is really not the focus.
 
 We'd like to assess what you can achieve in `2 to 4 hours`, specifically: 
