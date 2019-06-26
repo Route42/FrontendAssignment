@@ -29,7 +29,7 @@ Once you are done, please send us the link to the fork.
 _(if this is not possible please create an _archive_ and send it to tech@route42.nl using WeTransfer)_
 
 
-## Usefull stuff
+## Useful stuff
 VSCode is recommended for it's Typescript integration although not mandatory by any means.
 IF you have any questions don't hesitate to ask; we haven't bitten anyone yet (as the Dutch saying goes)
 Don't forget to `yarn` or `npm i`   
